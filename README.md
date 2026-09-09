@@ -4,7 +4,13 @@ The host plant root ecosystem, microorganisms and the soil forms below the groun
 
 Identification of the natural host microbial diversity is key features of the understanding the host plant rhizomicrobiome interaction dynamics. These interactions play pivotal role in plant adaption and ecological behavior of the most widely distributed plant species across the world.
 
+## Prerequisite
 
+```bash
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
+bash Miniforge3-Linux-x86_64.sh
+conda install mamba -n base -c conda-forge
+```
 
 ## Citations 
 
